@@ -2,6 +2,6 @@
 
 ### Esp: Ejercicio de implementación de un carrito de compras utilizando JavaScript vanilla, realizado después de cuatro meses de iniciar mi bootcamp de desarrollo Full Stack.
 
-## Original repository: https://github.com/JorgePeju/Entrega_Domingo_5_Marzo
+## Original repository: https://github.com/JorgePeju/Entrega_Domingo_5_Marzo .
 
 
